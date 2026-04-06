@@ -1,2 +1,2 @@
 # Atividade-Chart-JS-Aula-PI
-Atividades de especifiação de dashboard no excel e utilização do Chart.JS
+Atividades de especifiação de dashboard utilizando o Chart.JS
